@@ -63,4 +63,4 @@ var loc_Parking_lot = {
 "한솔식품㈜" : [ new kakao.maps.LatLng(36.5974396, 127.3167978)], 
 "하이㈜" : [ new kakao.maps.LatLng(36.6552621, 127.3537717)], 
 "프로바이오" : [ new kakao.maps.LatLng(36.599516, 127.3150398)]
-}
+};
