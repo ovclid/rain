@@ -118,7 +118,7 @@
                     
                     if(Object.keys(loc_Parking_lot).includes(market[i])){
                         content = '<div class="click_text"> 카카오내비 :' + '<address> <a href = https://map.kakao.com/link/to/' 
-                            + market[i] + ',' + loc_Parking_lot[market[i]][0] + ',' + loc_Parking_lot[market[i]][1] + ">" + 
+                            + market[i] + ',' + loc_Parking_lot[market[i]][0] + ',' + loc_Parking_lot[market[i]][1] + '>' + 
                             market[i] + " 인근 지점" + '</a>' + '</address> </div>';
                     }
 
@@ -192,7 +192,7 @@
 
 
                         var detail_content = '<div class="search_overlay">' + '<address> <a href = https://map.kakao.com/link/to/' 
-                            + result[0].address.address_name.replaceAll(' ', '') + ',' + latlng.getLat() + ',' + latlng.getLng() + ">" + 
+                            + result[0].address.address_name.replaceAll(' ', '') + ',' + latlng.getLat() + ',' + latlng.getLng() + '>' + 
                             result[0].address.address_name + '</a>' + '</address> </div>';
 
                         var customOverlay = new kakao.maps.CustomOverlay({
