@@ -117,7 +117,9 @@
 
                     
                     if(Object.keys(loc_Parking_lot).includes(market[i])){
-                        content = '<div class="click_text"> 카카오내비 :' + '<address> <a href = https://map.kakao.com/link/to/' + market[i] + ',' + loc_Parking_lot[market[i]][0] + ',' + loc_Parking_lot[market[i]][1] + '>' + market[i] + " 인근 지점" + '</a>' + '</address> </div>';
+                        content = '<div class="click_text"> 카카오내비 :' + '<address> <a href = https://map.kakao.com/link/to/' 
+                                 + market[i] + ',' + loc_Parking_lot[market[i]]['Ma'] + ',' + loc_Parking_lot[market[i]]['La'] + '>' + market[i] + " 인근 지점" 
+                                 + '</a>' + '</address> </div>';
                     }
 
                     infowindow.setContent(content);
