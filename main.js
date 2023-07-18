@@ -31,3 +31,36 @@ var polygonPath_Main = {
 "하이㈜" : [ new kakao.maps.LatLng(36.6552621, 127.3537717)], 
 "프로바이오" : [ new kakao.maps.LatLng(36.599516, 127.3150398)]
 };
+
+var loc_Parking_lot = { 
+    "에스이엔지" : [ new kakao.maps.LatLng(36.7633628, 127.5563547)], 
+"석성기업(태산하이텍 등)" : [ new kakao.maps.LatLng(36.7604315, 127.5047365)], 
+"(주)엠에이라이팅" : [ new kakao.maps.LatLng(36.7452901, 127.5214047)], 
+"에이엠티" : [ new kakao.maps.LatLng(36.765586, 127.5301028)], 
+"농업회사 법인 ㈜한결바이오" : [ new kakao.maps.LatLng(36.7684986, 127.5339385)], 
+"디엔에스테크" : [ new kakao.maps.LatLng(36.5234486, 127.5147098)], 
+"㈜한국펄프" : [ new kakao.maps.LatLng(36.5302374, 127.5015992)], 
+"원풍기업" : [ new kakao.maps.LatLng(36.5967507, 127.6788268)], 
+"㈜모빌전장" : [ new kakao.maps.LatLng(36.5601411, 127.4260692)], 
+"㈜레오" : [ new kakao.maps.LatLng(36.5605545, 127.4432839)], 
+"계양산업" : [ new kakao.maps.LatLng(36.5052452, 127.4118583)], 
+"㈜광스틸" : [ new kakao.maps.LatLng(36.5114849, 127.4109101)], 
+"㈜제이엔피" : [ new kakao.maps.LatLng(36.5084847, 127.4189182)], 
+"기업명 없음" : [ new kakao.maps.LatLng(36.7454788, 127.5213025)], 
+"원앤프론테크" : [ new kakao.maps.LatLng(36.7270694, 127.5222527)], 
+"진천마대" : [ new kakao.maps.LatLng(36.7634118, 127.5564274)], 
+"PNJ오창공장" : [ new kakao.maps.LatLng(36.7360614, 127.3449403)], 
+"남광건업" : [ new kakao.maps.LatLng(36.6609536, 127.4751505)], 
+"㈜위코" : [ new kakao.maps.LatLng(36.6157132, 127.3340978)], 
+"㈜가경이엔지" : [ new kakao.maps.LatLng(36.6183707, 127.3419595)], 
+"㈜에스제이푸드" : [ new kakao.maps.LatLng(36.5809308, 127.3272548)], 
+"㈜율성금속" : [ new kakao.maps.LatLng(36.5806964, 127.3428592)], 
+"㈜신이" : [ new kakao.maps.LatLng(36.5996427, 127.3514474)], 
+"㈜연화" : [ new kakao.maps.LatLng(36.6640738, 127.4642255)], 
+"동광금속" : [ new kakao.maps.LatLng(36.6020599, 127.333447)], 
+"우리테크" : [ new kakao.maps.LatLng(36.6020599, 127.333447)], 
+"구구테크" : [ new kakao.maps.LatLng(36.6020599, 127.333447)], 
+"한솔식품㈜" : [ new kakao.maps.LatLng(36.5974396, 127.3167978)], 
+"하이㈜" : [ new kakao.maps.LatLng(36.6552621, 127.3537717)], 
+"프로바이오" : [ new kakao.maps.LatLng(36.599516, 127.3150398)]
+}
