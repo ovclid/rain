@@ -90,7 +90,7 @@ var company_info = {
 '㈜에스앤씨코리아' : [new kakao.maps.LatLng(36.5748372, 127.6923637)],
 '㈜SUN&L 보은공장' : [new kakao.maps.LatLng(36.4703813, 127.739625)],
 '이담푸드' : [new kakao.maps.LatLng(36.344004, 127.5248001)],
-'대원프레임' : [new kakao.maps.LatLng(36.661732, 127.465188)],
+'대원프레임' : [new kakao.maps.LatLng(36.661732, 127.465208)],
 '세종물류' : [new kakao.maps.LatLng(36.661782, 127.465168)],
 '㈜KNC' : [new kakao.maps.LatLng(36.6616993, 127.4668897)],
 '㈜금성푸드' : [new kakao.maps.LatLng(36.6593301, 127.4668437)],
