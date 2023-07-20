@@ -91,7 +91,7 @@ var company_info = {
 '㈜SUN&L 보은공장' : [new kakao.maps.LatLng(36.4703813, 127.739625)],
 '이담푸드' : [new kakao.maps.LatLng(36.344004, 127.5248001)],
 '대원프레임' : [new kakao.maps.LatLng(36.661732, 127.465188)],
-'세종물류' : [new kakao.maps.LatLng(36.662732, 127.465188)],
+'세종물류' : [new kakao.maps.LatLng(36.661742, 127.465188)],
 '㈜KNC' : [new kakao.maps.LatLng(36.6616993, 127.4668897)],
 '㈜금성푸드' : [new kakao.maps.LatLng(36.6593301, 127.4668437)],
 '㈜롯데쇼핑 신선품질혁신센터' : [new kakao.maps.LatLng(36.8147131, 127.5903086)],
