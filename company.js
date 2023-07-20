@@ -85,7 +85,7 @@ var company_info = {
 '현대종합특수강㈜' : [new kakao.maps.LatLng(36.8220832, 127.5909512)],
 '충북인삼농협고려인삼창' : [new kakao.maps.LatLng(36.8158991, 127.6003693)],
 '㈜제일 참' : [new kakao.maps.LatLng(37.0210209, 127.5157708)],
-'건영시스템' : [new kakao.maps.LatLng(36.6608318, 127.4664866)],
+'건영시스템' : [new kakao.maps.LatLng(36.6608318, 127.4655866)],
 '조인과학' : [new kakao.maps.LatLng(36.6608318, 127.4654866)],
 '㈜에스앤씨코리아' : [new kakao.maps.LatLng(36.5748372, 127.6923637)],
 '㈜SUN&L 보은공장' : [new kakao.maps.LatLng(36.4703813, 127.739625)],
